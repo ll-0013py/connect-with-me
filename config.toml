@@ -3,7 +3,6 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 theme = "lynx"
-publishDir = "docs"
 
 title = "Connect with Me"
 # copyright = "Copy, _right?_ :thinking_face:"
