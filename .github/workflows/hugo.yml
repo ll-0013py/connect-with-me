@@ -65,7 +65,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: github-pages
-          path: .
+          path: public
 
   # Deployment job
   deploy:
