@@ -2,7 +2,6 @@ baseURL = "http://ll-0013py.github.io/connect-with-me/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
-publishDir = "docs"
 theme = "lynx"
 googleAnalytics = "G-Y0RBR99HSF"
 
