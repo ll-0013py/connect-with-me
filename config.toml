@@ -4,6 +4,7 @@ defaultContentLanguage = "en"
 
 publishDir = "docs"
 theme = "lynx"
+googleAnalytics = "G-Y0RBR99HSF"
 
 title = "Connect with Me"
 # copyright = "Copy, _right?_ :thinking_face:"
