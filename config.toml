@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     { twitter = "https://twitter.com/ll_0013py" },
-    { twitter = { href = "https://twitter.com/ll_0013py", text = "Twitter (Music)" } },
+    { twitter = { href = "https://twitter.com/ray_pianocover", text = "Twitter (Music)" } },
     { instagram = { href = "https://www.instagram.com/ray_pianocover/", text = "Instagram" } },
     { youtube = "https://www.youtube.com/channel/UC6ljdPxxc12O3BMZzHnJWHg/?sub_confirmation=1" },
     { note-sticky-regular = { href = "https://note.com/ll_0013py/", text = "note" } },
@@ -29,8 +29,6 @@ disableKinds = ["taxonomy", "term"]
     { music-solid = { href = "https://store.piascore.com/publishers/5313", text = "Piascore"} },
     { music-solid = { href = "https://www.kokomu.jp/artist/ray?viewType=sheet&orderBy=createdAt&page=1", text = "kokomu"} },
     { music-solid = { href = "https://www.mymusicsheet.com/ray?viewType=sheet&orderBy=createdAt&page=1", text = "MyMusicSheet"} },
-    { user-tie-solid = { href = "https://crowdworks.jp/public/employees/5702453", text = "CrowdWorks"} },
-    { user-tie-solid = { href = "https://www.lancers.jp/profile/ll_0013py?ref=header_menu", text = "ランサーズ"} },
     { user-tie-solid = { href = "https://coconala.com/users/4454434/", text = "ココナラ"} },
     { email = "mailto:rr2024.web3@gmail.com" }
   ]
