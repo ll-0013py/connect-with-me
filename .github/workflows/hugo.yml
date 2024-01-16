@@ -57,14 +57,9 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Change working directory
-        run: cd public
-      - name: List contents of ./public
-        run: ls -R ./public
       - name: Upload artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
-          name: github-pages
           path: ./public
 
   # Deployment job
