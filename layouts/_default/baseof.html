@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<head>
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y0RBR99HSF"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-Y0RBR99HSF');
+  </script>
+</head>
+
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en{{ end }}">
+  {{- partial "head.html" . -}}
+  <body
+    class="flex flex-col h-screen px-6 m-auto text-lg leading-7 bg-neutral max-w-7xl text-neutral-900 dark:bg-neutral-800 dark:text-white sm:px-14 md:px-24 lg:px-32"
+  >
+    <main class="flex-grow">{{- block "main" . }}{{- end }}</main>
+    {{- partial "footer.html" . -}}
+  </body>
+</html>
