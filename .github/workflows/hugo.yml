@@ -31,4 +31,4 @@ jobs:
       - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
         with:
-          # Your deploy configuration here
+          path: ./public
