@@ -24,7 +24,7 @@ disableKinds = ["taxonomy", "term"]
     { note-sticky-regular = { href = "https://note.com/ll_0013py/", text = "note" } },
     { box-open-solid = { href = "https://marshmallow-qa.com/ll_0013py?utm_medium=url_text&utm_source=promotion", text = "マシュマロ（質問箱）"} },
     { github = "https://github.com/ll-0013py" },
-    { link = { href = "https://ll-0013py.github.io/portfolio", text = "Portfolio"} },
+    { link = { href = "https://ray-globallife.com/portfolio/", text = "ポートフォリオ, お仕事等の依頼"} },
   ]
 
 
