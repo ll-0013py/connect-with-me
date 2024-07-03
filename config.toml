@@ -19,13 +19,9 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { link = { href = "https://ray-globallife.com/", text = "My Website"} },
     { twitter = "https://twitter.com/ll_0013py" },
-    { twitter = { href = "https://x.com/ray_globallife", text = "Twitter（告知用）" } },
     { youtube = "https://www.youtube.com/channel/UC6ljdPxxc12O3BMZzHnJWHg/?sub_confirmation=1" },
     { note-sticky-regular = { href = "https://note.com/ll_0013py/", text = "note" } },
-    { box-open-solid = { href = "https://marshmallow-qa.com/ll_0013py?utm_medium=url_text&utm_source=promotion", text = "マシュマロ（質問箱）"} },
     { github = "https://github.com/ll-0013py" },
-    { link = { href = "https://ray-globallife.com/portfolio/", text = "ポートフォリオ・お仕事等の依頼"} },
-    { link = { href = "https://ray-globallife.com/support/", text = "活動支援のお願い"} },
   ]
 
 
